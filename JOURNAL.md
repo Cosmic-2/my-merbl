@@ -23,6 +23,6 @@
 **2h**
 
 ![image_2026-10-18_165820715](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vSUM2aTYhbHtd373RCr370LaFAJBBUrJ/6d61a30922bc87b529e28f8217e0bc4d15f10e131432463621e0a375a6bb433f.png)
-I FINALLY finished the tutorial (onshape was harder that i thought). Now I'm gonna try to implement some of my ideas and i sadly already know i cannot do all of them. So far I know everything except the jump will be on it but who knows. So wish me luck.
+I FINALLY finished the tutorial (onshape was harder that i thought). Now I'm gonna try to implement some of my ideas and i sadly already know i cannot do all of them. So far I know everything except the jump and the mixing of the tracks will be on it but who knows. So wish me luck.
 
 ![image_2026-10-18_163900283](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vSUM2aTYhbHtd373RCr370LaFAJBBUrJ/7edc8590ee6b6894452d5ac4e574baf43164a67f99d9bf2a3f86af851609941a.png)
